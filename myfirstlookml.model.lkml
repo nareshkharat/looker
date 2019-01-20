@@ -10,7 +10,7 @@ datagroup: myfirstlkml_default_datagroup {
 
 persist_with: myfirstlkml_default_datagroup
 
-explore: distribution_centers {}
+explore: distribution_centers {label:"dist centers"}
 
 explore: etl_jobs {}
 
